@@ -13,6 +13,8 @@ To use this library follow these steps:
 2. Extend the neoUpdate class and implement/extend onProgress() and onPostExecute() if required. onProgress receives the current completion status (multiply the value by 100 for percentage completion). onPostExecute receives the status as a string "Success" for successful completion or error string (sometimes what the server returns) on failure.
 3. Initialize the parameters (like tokens & secrets) and call execute
 
+Note: The token and secret should be available from the portal's application dashboard once you create your app there.
+
 
 ## Example
 
