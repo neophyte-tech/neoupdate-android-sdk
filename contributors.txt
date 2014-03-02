@@ -1,5 +1,5 @@
 # This file contains the contributors to this project.
-# Contributions other than Neophyte Technologies LLP & affliations
+# Contributions from other than Neophyte Technologies LLP & affliations
 # have to be dual licensed under GPLv3 and Apache V2 to be accepted.
 
 # List all the contributors (and/or Authors) along with web link or email below:
