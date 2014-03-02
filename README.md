@@ -17,13 +17,16 @@ To use this library follow these steps:
 ## Example
 
 ```java
-package com.neoexample.updateexample;
+package in.neoexample.updateexample;
 
 import android.os.Bundle;
 import android.app.Activity;
 import android.content.Context;
 import android.util.Log;
 import android.view.Menu;
+
+// Import neoUpdate SDK helper
+import in.neoandroid.neoupdate.neoUpdate;
 
 public class UpdateActivity extends Activity {
 	private static final String TAG = "[neoUpdateDemo]";
