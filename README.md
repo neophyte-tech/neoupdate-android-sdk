@@ -44,9 +44,9 @@ public class UpdateActivity extends Activity {
                                    1);
         // For Offline Updation - comment out the previous line
 		// Update update = new Update(getApplicationContext(),
-                                      "file:////sdcard/update/update.npk",
-                                      "/sdcard/tmp/",
-                                      null, null, 0);
+        //                            "file:////sdcard/update/update.npk",
+        //                            "/sdcard/tmp/",
+        //                            null, null, 0);
 		update.execute();
 	}
 
