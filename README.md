@@ -14,7 +14,7 @@ To use this library follow these steps:
 3. Initialize the parameters (like tokens & secrets) and call execute
 
 Note: The baseUrl, token and secret should be available in the portal's application dashboard once you create your app there.
-
+Also, make sure you have added proper external storage permissions to your manifest file if you are using /sdcard files.
 
 ## Example
 
